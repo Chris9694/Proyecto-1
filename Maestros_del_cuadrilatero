@@ -37,7 +37,7 @@ subtitulo = createFont("yorkwhiteletter.ttf",100);
 general = createFont("Pixeled.ttf",30);
 
 //AUDIO
-luchas = new SoundFile(this, "los luchadores.wav");
+luchas = new SoundFile(this, "los luchadores.mp3");
 luchas.play();
 luchas.amp(0.4);
 
